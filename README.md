@@ -18,10 +18,10 @@
 ---
 
 ## Chaos;Head
-|**Title**|**Type**|
-|---------|--------|
-|Chaos;Head 2008|Visual Novel|
-|Chaos;Head NoAH|Visual Novel|
+|**Title**|**Type**|**Notes**|
+|---------|--------|---------|
+|Chaos;Head 2008|Visual Novel|Obselete Version,largely incorporated into NoAH|
+|Chaos;Head NoAH|Visual Novel|Definitive Version of teh story with more routes and content|
 |Chaos;Head Love Chu Chu !|Visual Novel|
 |Chaos;Head|Anime|
 |Chaos;Head|Manga|
