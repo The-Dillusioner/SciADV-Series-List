@@ -18,3 +18,6 @@
 ---
 
 ## Chaos;Head
+|**Title**|**Type**|
+|---------|--------|
+|Chaos;Head - Blue Complex|Manga|
