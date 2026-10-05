@@ -43,6 +43,9 @@
 |Chaos;Head Delusion Voice - Seira Orgel Chapter|CD|
 |ChaoS;Head Delusion Voice - Hazuki Shino Chapter|CD|
 |The Parallel Bootleg|CD|
+|Delusion Reflection Meeting|CD|
+|Nishijou Takumi's Everyday Life|CD|
+|Blood Tune THE RADIO|CD|
 |Triptych of an Abrupt Chain (SCIADV)|CD|
 |Delusion Radio Show|Radio|
 |Radio Chaos;Head²|Radio|
