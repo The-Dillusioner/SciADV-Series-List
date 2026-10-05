@@ -14,6 +14,7 @@
 - [Originope's SCIADV Guide](https://originope.github.io/)
 - [Observer of Time's SCIADV Lists](https://observeroftime.github.io/SciADVLists/)
 - [Beyond the Gate](https://discord.com/invite/YBmZzfA)
+- [SciADV wiki](https://scienceadventure.wiki.gg/)
 
 ---
 
