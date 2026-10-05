@@ -20,7 +20,7 @@
 ## Chaos;Head
 |**Title**|**Type**|
 |---------|--------|
-|Chaos;Head|Visual Novel|
+|Chaos;Head 2008|Visual Novel|
 |Chaos;Head NoAH|Visual Novel|
 |Chaos;Head Love Chu Chu !|Visual Novel|
 |Chaos;Head|Anime|
