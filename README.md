@@ -20,12 +20,18 @@
 ## Chaos;Head
 |**Title**|**Type**|
 |---------|--------|
+|Chaos;Head NoAH|Visual Novel|
+|Chaos;Head Love Chu Chu !|Visual Novel|
+|Chaos;Head|Anime|
+|Chaos;Head|Manga|
+|Chaos;Head Love Chu Chu !|Manga|
 |Chaos;Head - Blue Complex|Manga|
 |Chaos;Head H|Manga|
 |Official Comic Anthology Compilation Of Rampaging Delusions|Manga|
 |Chaos;Head - Delusion of Zero|Short Story|
 |Chaos;Chat|Short Story|
 |Chaos;Gate|Short Story|
+|Chaos;Head (Nagomi Bunko)|Light Novel|
 |Blood Tune the Novelization|Light Novel|
 |Chaos;Head Delusion Voice - Nishijou Nanami Chapter|CD|
 |Chaos;Head Delusion Voice - Sakihata Rimi Chapter|CD|
