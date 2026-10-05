@@ -21,3 +21,23 @@
 |**Title**|**Type**|
 |---------|--------|
 |Chaos;Head - Blue Complex|Manga|
+|Chaos;Head H||Manga|
+|Official Comic Anthology Compilation Of Rampaging Delusions||Manga|
+|Chaos;Head - Delusion of Zero||SS|
+|Chaos;Chat||Short Story|
+|Chaos;Gate||Short Story|
+||Blood Tune the Novelization||Light Novel|
+|Chaos;Head Delusion Voice - Nishijou Nanami Chapter||CD|
+|Chaos;Head Delusion Voice - Sakihata Rimi Chapter||CD|
+|Chaos;Head Delusion Voice - Kishimoto Ayase Chapter||CD|
+|Chaos;Head Delusion Voice - Orihara Kozue Chapter||CD|
+|Chaos;Head Delusion Voice - Kusunoki Yua Chapter||CD|
+|Chaos;Head Delusion Voice - Aoi Sena Chapter||CD|
+|Chaos;Head Delusion Voice - Seira Orgel Chapter||CD|
+|ChaoS;Head Delusion Voice - Hazuki Shino Chapter||CD|
+|The Parallel Bootleg||CD|
+|Triptych of an Abrupt Chain (SCIADV)||CD|
+|Delusion Radio Show||R|
+|Radio Chaos;Head²||R|
+|Radio Chaos;Head³||R|
+
