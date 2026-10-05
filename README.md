@@ -23,7 +23,7 @@
 |Chaos;Head - Blue Complex|Manga|
 |Chaos;Head H|Manga|
 |Official Comic Anthology Compilation Of Rampaging Delusions|Manga|
-|Chaos;Head - Delusion of Zero|SS|
+|Chaos;Head - Delusion of Zero|Short Story|
 |Chaos;Chat|Short Story|
 |Chaos;Gate|Short Story|
 |Blood Tune the Novelization|Light Novel|
@@ -37,7 +37,7 @@
 |ChaoS;Head Delusion Voice - Hazuki Shino Chapter|CD|
 |The Parallel Bootleg|CD|
 |Triptych of an Abrupt Chain (SCIADV)|CD|
-|Delusion Radio Show|R|
-|Radio Chaos;Head²|R|
-|Radio Chaos;Head³|R|
+|Delusion Radio Show|Radio|
+|Radio Chaos;Head²|Radio|
+|Radio Chaos;Head³|Radio|
 
