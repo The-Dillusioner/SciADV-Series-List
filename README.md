@@ -22,9 +22,7 @@
 |**Title**|**Type**|**Notes**|
 |---------|--------|---------|
 |Chaos;Head 2008|Visual Novel|Incomplete Version|
-|Chaos;Head NoAH|Visual Novel|Definitive Version <br>
-                              More routes and content <br>
-                              CoZ patch recommended|
+|Chaos;Head NoAH|Visual Novel|Definitive Version <br>More routes and content <br>CoZ patch recommended|
 |Chaos;Head Love Chu Chu !|Visual Novel|
 |Chaos;Head|Anime|
 |Chaos;Head|Manga|
