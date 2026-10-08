@@ -31,8 +31,8 @@
 |Chaos;Head H|Manga|
 |Official Comic Anthology<br> Compilation Of Rampaging Delusions|Manga|
 |Chaos;Head - Delusion of Zero|Short Story|
-|Chaos;Chat|Short Story|
-|Chaos;Gate|Short Story|
+|Chaos;Chat|Short Story|Available on ns2c|
+|Chaos;Gate|Short Story|Available on ns2c|
 |Chaos;Head (Nagomi Bunko)|Light Novel|
 |Blood Tune the Novelization|Light Novel|
 |Chaos;Head Delusion Voice -<br> Nishijou Nanami Chapter|CD|
