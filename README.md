@@ -29,20 +29,20 @@
 |Chaos;Head Love Chu Chu !|Manga|
 |Chaos;Head - Blue Complex|Manga|
 |Chaos;Head H|Manga|
-|Official Comic Anthology Compilation Of Rampaging Delusions|Manga|
+|Official Comic Anthology<br> Compilation Of Rampaging Delusions|Manga|
 |Chaos;Head - Delusion of Zero|Short Story|
 |Chaos;Chat|Short Story|
 |Chaos;Gate|Short Story|
 |Chaos;Head (Nagomi Bunko)|Light Novel|
 |Blood Tune the Novelization|Light Novel|
-|Chaos;Head Delusion Voice - Nishijou Nanami Chapter|CD|
-|Chaos;Head Delusion Voice - Sakihata Rimi Chapter|CD|
-|Chaos;Head Delusion Voice - Kishimoto Ayase Chapter|CD|
-|Chaos;Head Delusion Voice - Orihara Kozue Chapter|CD|
-|Chaos;Head Delusion Voice - Kusunoki Yua Chapter|CD|
-|Chaos;Head Delusion Voice - Aoi Sena Chapter|CD|
-|Chaos;Head Delusion Voice - Seira Orgel Chapter|CD|
-|ChaoS;Head Delusion Voice - Hazuki Shino Chapter|CD|
+|Chaos;Head Delusion Voice -<br> Nishijou Nanami Chapter|CD|
+|Chaos;Head Delusion Voice -<br> Sakihata Rimi Chapter|CD|
+|Chaos;Head Delusion Voice -<br> Kishimoto Ayase Chapter|CD|
+|Chaos;Head Delusion Voice -<br> Orihara Kozue Chapter|CD|
+|Chaos;Head Delusion Voice -<br> Kusunoki Yua Chapter|CD|
+|Chaos;Head Delusion Voice -<br> Aoi Sena Chapter|CD|
+|Chaos;Head Delusion Voice -<br> Seira Orgel Chapter|CD|
+|ChaoS;Head Delusion Voice -<br> Hazuki Shino Chapter|CD|
 |The Parallel Bootleg|CD|
 |Delusion Reflection Meeting|CD|
 |Nishijou Takumi's Everyday Life|CD|
