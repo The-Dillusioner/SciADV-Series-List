@@ -27,7 +27,7 @@
 |Chaos;Head|Anime|Abridged Version|
 |Chaos;Head|Manga| Abridged Version|
 |Chaos;Head Love Chu Chu !|Manga|Adaptation of C;H LCC|
-|Chaos;Head - Blue Complex|Manga|Adaptation of C;H through the eyes of Sena Aoi|
+|Chaos;Head - Blue Complex|Manga|Adaptation of C;H through<br>the eyes of Sena Aoi|
 |Chaos;Head H|Manga|Romcom sequel<br>Separate from C;H LCC|
 |Official Comic Anthology<br> Compilation Of Rampaging Delusions|Manga|
 |Chaos;Head - Delusion of Zero|Short Story|
