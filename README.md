@@ -52,3 +52,20 @@
 |Radio Chaos;Head²|Radio|
 |Radio Chaos;Head³|Radio|
 
+## Steins;Gate
+
+
+
+## Robotics;Notes
+
+
+
+## Chaos;Child
+
+
+
+## Occultic;Nine
+
+
+
+## Anonymous;Code
