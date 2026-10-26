@@ -73,6 +73,10 @@
 ## Occultic;Nine
 |**Title**|**Type**|**Notes**|
 |---------|--------|---------|
+|Occultic;Nine|Light Novel|Incomplete|
+|Occultic;Nine|Visual Novel|Incomplete|
+|Occultic;Nine|Anime|Complete|
+|Occultic;Nine|Manga|complete|
 |The world is a lonely place, isn't it?|CD|
 |Is that a coincidence? Or...|CD|
 |Occultic;Nine original voice drama|CD|
