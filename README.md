@@ -53,23 +53,34 @@
 |Radio Chaos;Head³|Radio|
 
 ## Steins;Gate
+|**Title**|**Type**|**Notes**|
+|---------|--------|---------|
 
 
 
 ## Robotics;Notes
+|**Title**|**Type**|**Notes**|
+|---------|--------|---------|
 
 
 
 ## Chaos;Child
+|**Title**|**Type**|**Notes**|
+|---------|--------|---------|
 
 
 
 ## Occultic;Nine
-
+|**Title**|**Type**|**Notes**|
+|---------|--------|---------|
+|The world is a lonely place, isn't it?|CD|
+|Is that a coincidence? Or...|CD|
+|Occultic;Nine original voice drama|CD|
 
 
 ## Anonymous;Code
 |**Title**|**Type**|**Notes**|
 |---------|--------|---------|
+|Anonymous;Code|Visual Novel||
 |A Beginner's guide to Earth Simulator|Guide Book||
 |Mages;Fes 2023 Hackers Crosstalk|Short Story|Available on NS2C|
