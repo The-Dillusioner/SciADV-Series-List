@@ -33,7 +33,7 @@
 |Chaos;Head - Delusion of Zero|Short Story|
 |Chaos;Chat|Short Story|Available on ns2c|
 |Chaos;Gate|Short Story|Available on ns2c|
-|Chaos;Head (Nagomi Bunko)|Light Novel|
+|Chaos;Head (Nagomi Bunko)|Light Novel|Chibi Parody|
 |Blood Tune the Novelization|Light Novel|
 |Chaos;Head Delusion Voice -<br> Nishijou Nanami Chapter|CD|
 |Chaos;Head Delusion Voice -<br> Sakihata Rimi Chapter|CD|
