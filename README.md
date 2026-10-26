@@ -24,11 +24,11 @@
 |Chaos;Head 2008|Visual Novel|Incomplete Version|
 |Chaos;Head NoAH|Visual Novel|Definitive Version <br>More routes and content <br>CoZ patch recommended|
 |Chaos;Head Love Chu Chu !|Visual Novel|Canon Romcom sequel<br>CoZ patch recommended|
-|Chaos;Head|Anime|
-|Chaos;Head|Manga|
-|Chaos;Head Love Chu Chu !|Manga|
-|Chaos;Head - Blue Complex|Manga|
-|Chaos;Head H|Manga|
+|Chaos;Head|Anime|Abridged Version|
+|Chaos;Head|Manga| Abridged Version|
+|Chaos;Head Love Chu Chu !|Manga|Adaptation of C;H LCC|
+|Chaos;Head - Blue Complex|Manga|Adaptation of C;H through the eyes of Sena Aoi|
+|Chaos;Head H|Manga|Romcom sequel<br>Separate from C;H LCC|
 |Official Comic Anthology<br> Compilation Of Rampaging Delusions|Manga|
 |Chaos;Head - Delusion of Zero|Short Story|
 |Chaos;Chat|Short Story|Available on ns2c|
