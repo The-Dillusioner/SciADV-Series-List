@@ -73,14 +73,14 @@
 ## Occultic;Nine
 |**Title**|**Type**|**Notes**|
 |---------|--------|---------|
-|Occultic;Nine|Light Novel|Incomplete|
-|Occultic;Nine|Visual Novel|Incomplete|
-|Occultic;Nine|Anime|Complete|
-|Occultic;Nine|Manga|complete|
+|Occultic;Nine|Light Novel|Original Format<br>Incomplete Version|
+|Occultic;Nine|Visual Novel|Incomplete Version|
+|Occultic;Nine|Anime|Complete Version*|
+|Occultic;Nine|Manga|Complete Version*|
 |The world is a lonely place, isn't it?|CD|
 |Is that a coincidence? Or...|CD|
 |Occultic;Nine original voice drama|CD|
-
+<p>* The anime and manga provide different conclusions to the story</p>
 
 ## Anonymous;Code
 |**Title**|**Type**|**Notes**|
