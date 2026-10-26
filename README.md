@@ -31,8 +31,8 @@
 |Chaos;Head H|Manga|Romcom sequel<br>Separate from C;H LCC|
 |Official Comic Anthology<br> Compilation Of Rampaging Delusions|Manga|
 |Chaos;Head - Delusion of Zero|Short Story|
-|Chaos;Chat|Short Story|Available on ns2c|
-|Chaos;Gate|Short Story|Available on ns2c|
+|Chaos;Chat|Short Story|Available on NS2C|
+|Chaos;Gate|Short Story|Available on NS2C|
 |Chaos;Head (Nagomi Bunko)|Light Novel|Chibi Parody|
 |Blood Tune the Novelization|Light Novel|
 |Chaos;Head Delusion Voice -<br> Nishijou Nanami Chapter|CD|
@@ -69,3 +69,7 @@
 
 
 ## Anonymous;Code
+|**Title**|**Type**|**Notes**|
+|---------|--------|---------|
+|A Beginner's guide to Earth Simulator|Guide Book||
+|Mages;Fes 2023 Hackers Crosstalk|Short Story|Available on NS2C|
