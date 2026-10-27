@@ -18,7 +18,7 @@
 
 ---
 
-## Chaos;Head
+## <a href=https://scienceadventure.wiki.gg/wiki/CHAOS;HEAD>Chaos;Head</a>
 |**Title**|**Type**|**Notes**|
 |---------|--------|---------|
 |Chaos;Head 2008|Visual Novel|Incomplete Version|
